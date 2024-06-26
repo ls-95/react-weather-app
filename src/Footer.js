@@ -18,7 +18,7 @@ export default function Footer() {
         </a>{" "}
         and is hosted on{" "}
         <a
-          href="https://master--weather-app-react-shecodes.netlify.app/"
+          href="https://app.netlify.com/sites/weather-app-react-shecodes/overview"
           target="_blank"
           rel="noreferrer"
         >
