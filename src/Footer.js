@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer>
       <p>
-        This AI project was coded by{" "}
+        This project was coded by{" "}
         <a href="https://github.com/ls-95" target="_blank" rel="noreferrer">
           Laetitia Saunders
         </a>{" "}
